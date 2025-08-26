@@ -2,7 +2,7 @@
 title: sip.js + freeswitch 软电话(webRTC)demo
 tags: []
 id: '24'
-category: web软电话
+category: 创作
 date: 2021-10-08 20:30:00
 summary: ''
 ---
