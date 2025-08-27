@@ -2,8 +2,8 @@
   "site": {
     "url": "https://cleves.me",
     "title": "Cleves",
-    "description": "Cleves's Blog",
-    "keywords": "Cleves,Blog,Cleves's Blog",
+    "description": "Cleves's website",
+    "keywords": "Cleves,Blog,Cleves's website",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
